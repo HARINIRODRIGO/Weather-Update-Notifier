@@ -1,2 +1,2 @@
 # Weather-Update-Notifier
-Project wasdone using pywhatkit, API requests
+Project was done using pywhatkit, API requests
