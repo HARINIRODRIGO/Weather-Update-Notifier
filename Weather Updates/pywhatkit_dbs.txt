@@ -1,16 +1,16 @@
 --------------------
 Date: 5:8:2021
 Time: 20:6
-Phone number: +94701313779
+Phone number: +10123456778
 Message: "It's going to rain today. Remember to bring an ☔"
 --------------------
 Date: 5:8:2021
 Time: 20:8
-Phone number: +94701313779
+Phone number: +10123456778
 Message: "It's going to rain today. Remember to bring an ☔"
 --------------------
 Date: 5:8:2021
 Time: 20:12
-Phone number: +94701313779
+Phone number: +10123456778
 Message: It's going to rain today. Remember to bring an ☔
 --------------------
